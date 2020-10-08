@@ -15,4 +15,4 @@ $ conda activate ids_drl
    2. Defining the environment
    3. Training and Results
 
-5. The final model that we found is in `ids_drl_model.zip`, you skip can training and load it directly.
+5. The final model that we found is in `ids_drl_model.zip`, you  can skip training and load it directly.
