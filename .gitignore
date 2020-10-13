@@ -2,3 +2,4 @@ dataset
 processed_data
 log_25
 __pycache__
+.ipynb_checkpoints
